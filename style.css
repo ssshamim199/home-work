@@ -50,7 +50,7 @@ header{
     color: #1F1F1F;
     font-size: 16px;
     position: relative;
-    right: 10px;
+    right: -20px;
     line-height: 100px;
     display: none;
 }
@@ -618,9 +618,6 @@ opacity: 0.3;
 .department ul li a:hover{
     color: #41A2FA;
 }
-.address{
-    
-}
 .address h1{
     margin-top: -55px;
     font-size: 23px;
@@ -658,7 +655,7 @@ opacity: 0.3;
     }
     .img{
         position: relative;
-        left: 10px;
+        left: -20px;
     }
     .nav ul{
         position: fixed;
@@ -734,11 +731,11 @@ opacity: 0.3;
         height: 250px;
     }
     .imgg1{
-        left: 30px;
+        left: 20%;
     }
     .imgg2{
         top: 70px;
-        right: 30px;
+        right: 20%;
     }
     .text3{
         flex: 0 0 100%;
@@ -747,7 +744,7 @@ opacity: 0.3;
         padding: 10px 30px;
     }
     .text3 h4{
-        margin-left: 80px;
+        margin-left: 25%;
     }
     .text3 h1{
         font-size: 20px;
@@ -780,6 +777,9 @@ opacity: 0.3;
     }
     .card{
         max-width: 100%;
+    }
+    .card img{
+        width: 100%;
     }
     .sec5{
         width: 100%;
@@ -825,7 +825,7 @@ opacity: 0.3;
         display: block;
     }
     .text7 i{
-        margin-left: 38%;
+        margin-left: 40%;
     }
     .text7 p{
         font-size: 12px;
@@ -842,7 +842,7 @@ opacity: 0.3;
         margin-top: 50px;
     }
     .sec8 h1{
-        margin-left: 60px;
+        margin-left: 16%;
     }
     .card8{
         flex-wrap: wrap;
